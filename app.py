@@ -9,7 +9,7 @@ from datetime import datetime
 # ============================================================
 
 st.set_page_config(
-    page_title="Ollama Local Chatbot",
+    page_title=" Local AI Chatbot",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -706,7 +706,7 @@ with st.sidebar:
 # ============================================================
 
 st.markdown(
-    '<div class="main-title">🤖 Ollama Local Chatbot</div>',
+    '<div class="main-title">🤖 Local AI Chatbot</div>',
     unsafe_allow_html=True,
 )
 
